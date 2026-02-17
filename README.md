@@ -1,12 +1,3 @@
-Perfect — I’ll **keep all the earlier content**, **enhance it**, and add:
-
-✅ **Interview Questions & Answers (Beginner → Architect level)**  
-✅ **Basic configurations / commands / console settings**  
-✅ **Real-world usage tips**  
-✅ **Quick memory hooks**
-
-All content is **short, crisp, and revision‑friendly**, but still **interview‑ready**.
-
 ***
 
 # 📘 Google Cloud Platform (GCP) – Enhanced Notes + Interview Q\&A + Configurations
